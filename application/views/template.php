@@ -94,7 +94,7 @@
                     <?php echo $contents; ?>
             </div>
             <!-- /. PAGE INNER  -->
-            <footer><p>by <a href="http://inekeanggraeni.mhs.narotama.ac.id" target="_blank">Ineke Anggraeni</a> @ 2013</p></footer>
+            <footer><p>by <a href="http://inekeanggraeni.mhs.narotama.ac.id" target="_blank">Ineke Anggraeni</a> @ 2014</p></footer>
         </div>
         <!-- /. PAGE WRAPPER  -->
     </div>
