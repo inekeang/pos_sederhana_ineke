@@ -7,6 +7,14 @@
                 </div> 
                 <!-- /. ROW  -->
 
+                
+                <div class="row">
+                    Hallo.. <br />Selamat datang di Aplikasi Pembelian sederhana ini. <br />Enjoy your "klak-klik-klak-klik" man :)
+                    <br /><br /><br />
+                    Jika memiliki kritik/saran untuk pengembangan program ini, silahkan hubungi ineke.anggraeni@gmail.com
+                </div>
+
+                <!--  
                 <div class="row">
                     <div class="col-md-3 col-sm-12 col-xs-12">
                         <div class="panel panel-primary text-center no-boder bg-color-green">
@@ -57,7 +65,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- /. ROW  -->
+
 
                 <div class="row">
 
@@ -84,7 +92,7 @@
                     </div>
 
                 </div>
-                <!-- /. ROW  -->
+
 
                 <div class="row">
                     <div class="col-md-4 col-sm-12 col-xs-12">
@@ -197,4 +205,4 @@
 
                     </div>
                 </div>
-                <!-- /. ROW  -->
+                -->
