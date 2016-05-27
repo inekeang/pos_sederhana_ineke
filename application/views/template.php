@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>POS - Point Of Sale</title>
+    <title>Pembelian & Stok Barang</title>
 	<!-- Bootstrap Styles-->
     <link href="<?php echo base_url() ?>/assets/css/bootstrap.css" rel="stylesheet" />
      <!-- FontAwesome Styles-->
@@ -27,7 +27,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="<?php echo base_url() ?>">Point Of Sale</a>
+                <a class="navbar-brand" href="<?php echo base_url() ?>">Pembelian & Stok Barang</a>
             </div>
 
             <ul class="nav navbar-top-links navbar-right">
@@ -54,13 +54,13 @@
                         <a href="<?php echo base_url() ?>"><i class="fa fa-dashboard"></i> Dashboard</a>
                     </li>
                     <li>
+                        <a href="<?php echo base_url().'operator'?>"><i class="fa fa-qrcode"></i> Operator Sistem</a>
+                    </li>
+                    <li>
                         <a href="<?php echo base_url().'kategori'?>"><i class="fa fa-desktop"></i> Kategori Barang</a>
                     </li>
 					<li>
                         <a href="<?php echo base_url().'barang'?>"><i class="fa fa-bar-chart-o"></i> Data Barang</a>
-                    </li>
-                    <li>
-                        <a href="<?php echo base_url().'operator'?>"><i class="fa fa-qrcode"></i> Operator Sistem</a>
                     </li>
                     <li>
                         <a href="<?php echo base_url().'transaksi'?>"><i class="fa fa-edit"></i> Transaksi </a>
